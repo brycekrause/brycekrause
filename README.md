@@ -3,7 +3,7 @@ My name is Bryce and I am currently a sophomore studying Computer Science at the
 
 ## 📕 Relevant Courses:
 🔴 Programming in C <br>
-🔴 Pythom Programming <br>
+🔴 Python Programming <br>
 🔴 IT Operations <br>
 🔴 Software Design <br>
 🔴 Computing & Internet
@@ -16,3 +16,4 @@ My name is Bryce and I am currently a sophomore studying Computer Science at the
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
