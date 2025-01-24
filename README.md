@@ -17,3 +17,4 @@ My name is Bryce and I am currently a sophomore studying Computer Science at the
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-0878F?style=for-the-badge&logo=arduino&logoColor=white)
